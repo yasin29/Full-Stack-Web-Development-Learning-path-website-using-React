@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# InfoTech Club Full Stack Web Development Learning path
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
