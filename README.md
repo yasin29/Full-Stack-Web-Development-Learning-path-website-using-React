@@ -1,6 +1,6 @@
 # InfoTech Club Full Stack Web Development Learning path
 
-This project was bootstrapped with [Create React App](https://yasin29-full-stack-learning-path.netlify.app/).
+For explore this website, [Click Here](https://yasin29-full-stack-learning-path.netlify.app/).
 
 ## Available Features
 
