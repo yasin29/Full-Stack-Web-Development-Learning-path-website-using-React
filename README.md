@@ -7,9 +7,10 @@ This project was bootstrapped with [Create React App](https://yasin29-full-stack
 In the project directory, you can run:
 
 ### `Courses View`
-You can explore and know details about different DevOps Courses including / 
-difficulty level/
-Instructor
+You can explore and know details about different DevOps Courses which includes\
+difficulty level\
+Instructor\
+Course Credits
 
 
 ### `Entroll`
