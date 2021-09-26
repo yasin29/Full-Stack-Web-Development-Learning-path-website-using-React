@@ -1,0 +1,13 @@
+.header{
+    background-color:lightblue;
+    width: 80%;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    padding: 5px;
+}
+.header span{
+    color:teal;
+}
+.header h3{
+    color: goldenrod;
+}

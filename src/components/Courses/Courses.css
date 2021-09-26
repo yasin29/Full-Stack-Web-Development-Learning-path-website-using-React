@@ -1,0 +1,12 @@
+.courses{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* margin: 10px; */
+}
+.course{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* background-color: wheat; */
+    margin-left: 12%;
+    margin-top: 10px;
+}

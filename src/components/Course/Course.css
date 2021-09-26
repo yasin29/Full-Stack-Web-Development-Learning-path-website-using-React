@@ -1,0 +1,41 @@
+.cart{
+    background-color: wheat;
+    margin:10px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.cart h1{
+    font-size: 20px;
+}
+.cart:hover{
+    background-color: thistle;
+}
+.btn-regular{
+    background-color: goldenrod;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    width: 100px;
+
+}
+.btn-regular:hover{
+    background-color:gold;
+}
+.image{
+    width: 150px;
+    background-color:beige;
+    border-radius: 50px;
+}
+.fa-discord{
+    color: mediumslateblue;
+    cursor: pointer;
+}
+.fa-reddit{
+    margin-right: 10px;
+    color: red;
+    cursor: pointer;
+}
+.social{
+    margin-top: 10px;
+}
