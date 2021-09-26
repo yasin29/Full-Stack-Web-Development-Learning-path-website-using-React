@@ -7,15 +7,18 @@ For explore this website, [Click Here](https://yasin29-full-stack-learning-path.
 In the project directory, you can run:
 
 ### `Courses View`
-You can explore and know details about different DevOps Courses which includes\
+I create a json file named courses.json and parse data from there.\
+In this website you can explore and know details about different DevOps Courses which includes\
 difficulty level\
-Instructor\
-Course Credits
+Instructor name\
+Course Credits\
+Company names who are sponsored this courses.
 
 
 ### `Entroll`
 
-You can Entroll any courses of your choices.
+You can Entroll any courses of your own choices.
 
 ### `Entroll Details`
-You can check your activity details at Details with how many courses you entrolled and how much credits you can earn from this courses.
+You can check your activity details at Details component where it shows how many courses you entrolled and how much credits you can earn from this courses.\
+!!!Enjoy!!!
